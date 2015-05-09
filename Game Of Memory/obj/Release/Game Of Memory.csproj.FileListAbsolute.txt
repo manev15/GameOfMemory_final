@@ -1,0 +1,13 @@
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\bin\Release\Game Of Memory.exe.config
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\bin\Release\Game Of Memory.exe
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\bin\Release\Game Of Memory.pdb
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game_Of_Memory.Easy.resources
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game_Of_Memory.Form1.resources
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game_Of_Memory.Form2.resources
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game_Of_Memory.Hard.resources
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game_Of_Memory.Properties.Resources.resources
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game_Of_Memory.Score.resources
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game Of Memory.csproj.GenerateResource.Cache
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game Of Memory.exe
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game Of Memory.pdb
+D:\Finki\VI - semestar\Vizuelno programiranje\Zadaci - vezbanje\Game Of Memory\Game Of Memory\obj\Release\Game Of Memory.csprojResolveAssemblyReference.cache
